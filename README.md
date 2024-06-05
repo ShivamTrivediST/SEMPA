@@ -1,3 +1,3 @@
 # SEMPA
-Author Shivam Trivedi
+Author Shivam Trivedi<br>
 Project based on C++ and SQL
